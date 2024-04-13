@@ -24,7 +24,7 @@ The project spans from October 2023 to November 2024 in Bengaluru, Karnataka. Ke
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/price-forecasting-flipkart.git
+git clone https://github.com/vishnu55510/price-forecasting-flipkart.git
 
 
 pip install -r requirements.txt
