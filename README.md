@@ -31,4 +31,4 @@ pip install -r requirements.txt
 
 
 
-This README file provides an overview of the project, its key components, usage instructions, data sources, contribution guidelines, license information, and acknowledgments. Feel free to customize it further based on your specific project details.
+- This README file provides an overview of the project, its key components, usage instructions, data sources, contribution guidelines, license information, and acknowledgments. Feel free to customize it further based on your specific project details.
