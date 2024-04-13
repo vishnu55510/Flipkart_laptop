@@ -19,6 +19,8 @@ The project spans from October 2023 to November 2024 in Bengaluru, Karnataka. Ke
 - `machine_learning_models.ipynb`: Jupyter notebook demonstrating the implementation and evaluation of machine learning models for price forecasting.
 - `requirements.txt`: Text file listing the required Python packages and dependencies.
 
+This README file provides an overview of the project, its key components, usage instructions, data sources, contribution guidelines, license information, and acknowledgments. Feel free to customize it further based on your specific project deta
+
 ## Usage
 
 1. Clone the repository to your local machine:
@@ -30,5 +32,5 @@ git clone https://github.com/vishnu55510/price-forecasting-flipkart.git
 pip install -r requirements.txt
 
 
+![images (1)](https://github.com/vishnu55510/Flipkart_laptop/assets/162179720/f4d406c8-e616-487f-bc78-6deed416b4da)
 
-## This README file provides an overview of the project, its key components, usage instructions, data sources, contribution guidelines, license information, and acknowledgments. Feel free to customize it further based on your specific project details.
