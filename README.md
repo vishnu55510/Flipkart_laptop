@@ -2,6 +2,9 @@
 
 This project focuses on forecasting laptop prices on Flipkart using a data-driven approach. By conducting comprehensive analysis and utilizing machine learning techniques, the project aims to provide valuable insights for retailers and consumers alike.
 
+![images (1)](https://github.com/vishnu55510/Flipkart_laptop/assets/162179720/f4d406c8-e616-487f-bc78-6deed416b4da)
+
+
 ## Overview
 
 The project spans from October 2023 to November 2024 in Bengaluru, Karnataka. Key highlights include:
@@ -31,6 +34,4 @@ git clone https://github.com/vishnu55510/price-forecasting-flipkart.git
 
 pip install -r requirements.txt
 
-
-![images (1)](https://github.com/vishnu55510/Flipkart_laptop/assets/162179720/f4d406c8-e616-487f-bc78-6deed416b4da)
 
