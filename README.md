@@ -8,7 +8,7 @@ This project focuses on forecasting laptop prices on Flipkart using a data-drive
 
 ### Key Highlights:
 
-- **Time Frame**: October 2023 to November 2024
+- **Time Frame**: October 2023 to November 2023
 - **Location**: Bengaluru, Karnataka
 
 ### Objectives:
