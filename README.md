@@ -1,4 +1,4 @@
-# Price Forecasting for Laptops on Flipkart: A Data-driven Approach
+# Price Forecasting for Laptops using Flipkart: A Data-driven Approach
 
 ## Overview
 
