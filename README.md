@@ -15,7 +15,7 @@ This project focuses on forecasting laptop prices on Flipkart using a data-drive
 
 1. Conduct comprehensive analysis using real-time Flipkart data to forecast laptop prices.
 2. Utilize various analytical methodologies to identify significant trends and patterns in the Flipkart laptop market.
-3. Employ machine learning models (Logistic Regression, Decision Trees, and Random Forests) for price predictions.
+3. Employ machine learning models (Linear Regression, Decision Trees, and Random Forests) for price predictions.
 4. Achieve notable performance, particularly with the Random Forest model, which demonstrated high accuracy in price prediction.
 5. Provide retailers with valuable information to optimize pricing strategies and maximize profitability in the competitive online marketplace.
 
